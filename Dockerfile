@@ -5,7 +5,7 @@
 # Set up all our environment variables
 ###############################################################
 
-FROM python:3.10-buster
+FROM python:3.11-buster
 
 ENV PYTHONUNBUFFERED=1 \
     # prevents python creating .pyc files
