@@ -30,6 +30,7 @@ seaborn = "^0.12.0"
 
 # MLOps
 wandb = "^0.15.10"
+boto3 = "^1.34.22"
 
 
 [tool.poetry.group.dev]
